@@ -1,4 +1,4 @@
-# Connecting Intersection Road Data with Roads Surrounding It
+# Connecting Intersection Data with the Roads Surrounding It
 
 An Issue with the previous analysis (Analysis.ipynb) is the the traffic data was tied to intersections  
 and not the road themselves. This makes sense for when the data was recorded, as intersections allow for multiple  
