@@ -1,6 +1,8 @@
 This Project was made with the **[gis_dev_container](https://github.com/naorella/gis_dev_container)** project,  
 by creating a virual environment with docker in order to perform the analysis.
 
+A follow-up to this analysis is located in CardinalConnect.ipynb
+
 # An Analysis of Toronto Roads and the Effect of Calming Features
 
 ##### By: Nelson Alesandro
